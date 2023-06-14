@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>SwitchCase.Transportation</StartupObject>
+    <StartupObject>NEW_ASSIGNMENTS.gender_and_age</StartupObject>
   </PropertyGroup>
 
 </Project>
